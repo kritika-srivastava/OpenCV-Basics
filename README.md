@@ -1,1 +1,1 @@
-# Interactive Smart Board
+# OpenCV Basics
