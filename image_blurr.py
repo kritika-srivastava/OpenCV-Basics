@@ -2,7 +2,7 @@
 import cv2
 import numpy as np
 
-image = cv2.imread('C://Geeksforgeeks//image_processing//fruits.jpg')
+image = cv2.imread('OpenCV_Icon.png')
 
 cv2.imshow('Original Image', image)
 cv2.waitKey(0)
